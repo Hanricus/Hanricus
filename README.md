@@ -1,10 +1,3 @@
-# 💫 About Me
-🚀 I'm currently working on **Student Shop Platform** (a marketplace for students, similar to Shopee) and **QuickRide** (a ride-booking system inspired by Grab).<br><br>
-🤝 I'm looking to collaborate on web development or backend systems—still learning, but excited to grow!<br><br>
-💡 I'm seeking help to deepen my understanding of **PHP** and **MySQL databases**, and I’d love to start learning the **Laravel Framework**.<br><br>
-📚 Currently learning **PHP** and **C++** to enhance my skills in both frontend and backend development.<br><br>
-💬 Ask me about anything! You can reach me at [Shakim731@gmail.com](mailto:Shakim731@gmail.com)<br><br>
-🎉 Fun fact: *If the code is working, DON'T touch it!*
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hanricus.hanricus" />
 
@@ -18,7 +11,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Student Shop Platform** 
+ 🔭 I’m currently working on **Online student shopping platform** 
 
  🌱 I’m currently learning **Laravel, MySQL, and JavaScript**
 
@@ -50,6 +43,9 @@
 
 <br/>
 <hr/>
+
+💫 About Me
+I am a patient individual who excels in human interaction. My mission is to become a leading web developer, crafting innovative and user-friendly websites. My vision is to leverage technology to enhance online experiences and empower users.
 
 
 
@@ -96,10 +92,6 @@ Check out my coding tutorials and projects on YouTube: [Coding System Playlist](
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Hanricus&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hanricus&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanricus&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 --- 
 [![](https://visitcount.itsvg.in/api?id=Hanricus&icon=2&color=0)](https://visitcount.itsvg.in)
@@ -107,6 +99,5 @@ Check out my coding tutorials and projects on YouTube: [Coding System Playlist](
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Hanricus) 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+CLICK THE LINK!! [Trust Me](https://youtu.be/xvFZjo5PgG0?si=FK46lzR5zJ-9GAL1)
 
-Forget it.. i stick with this one.. just improve it bro and please.. make it more stylist please no bug or issue 
