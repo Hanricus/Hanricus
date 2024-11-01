@@ -44,7 +44,7 @@
 <br/>
 <hr/>
 
-💫 About Me
+💫 More About Me
 I am a patient individual who excels in human interaction. My mission is to become a leading web developer, crafting innovative and user-friendly websites. My vision is to leverage technology to enhance online experiences and empower users.
 
 
@@ -66,6 +66,12 @@ I am a patient individual who excels in human interaction. My mission is to beco
 
 <br/>
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Feel+Free+To+Contact+Me!;&color=ffffff" />
+</h1>
+
+<br/>
+
 <div align="center">
 <a href='https://ko-fi.com/your-ko-fi-link-here' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> <!-- Update this link with your Ko-fi link -->
 </div>
@@ -76,14 +82,14 @@ I am a patient individual who excels in human interaction. My mission is to beco
 ## 📹 My Coding Playlist
 Check out my coding tutorials and projects on YouTube: [Coding System Playlist](https://youtube.com/playlist?list=PL5_GYdK3koJux6Hq_jH0BFr95optKckXx&si=rwvanYjRK76BN8ZC)
 
-## 🌐 Socials
+## 🌐 Other Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shkrHive) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shkr_xz) 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/hanricus) 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@shkr_xz) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@hanricus3589) 
 
-## 💻 Tech Stack
+## 💻 Tech Stack 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
