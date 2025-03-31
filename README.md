@@ -1,23 +1,22 @@
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hanricus.hanricus" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Asalamualaikum!+👋;+I'm+Abdul+Shakir!;" />
+    Hi, I'm Abdul Shakir
 </h1>
 
-<h3 align="center">A passionate student and software developer from Malaysia 🇲🇾</h3>
+<h3 align="center">A passionate student and software developer from Malaysia</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **Online student shopping platform** 
+ 🔭 I’m currently working on **an online student shopping platform** 
 
  🌱 I’m currently learning **Laravel, MySQL, and JavaScript**
 
  💬 Ask me about **HTML5, CSS, Visual Studio... or anything [here](https://github.com/Hanricus/Hanricus/issues)**
 
- ⚡ Fun fact **If the code is working, DON'T touch it!**
+ ⚡ Fun fact: **If the code is working, don't touch it!**
 
 </div>
  
@@ -35,7 +34,7 @@
 
 <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,mysql,javascript,laravel,cplusplus" />
@@ -44,14 +43,12 @@
 <br/>
 <hr/>
 
-💫 More About Me
-I am a patient individual who excels in human interaction. My mission is to become a leading web developer, crafting innovative and user-friendly websites. My vision is to leverage technology to enhance online experiences and empower users.
-
-
+### About Me
+I enjoy working with technology and creating user-friendly websites. My goal is to become a skilled web developer who can build efficient and intuitive web applications. I believe in leveraging technology to improve user experience and accessibility.
 
 <hr/>
 
-<h2 align="center">⚡ My Stats ⚡</h2>
+<h2 align="center">📊 My Stats 📊</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Hanricus&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
@@ -64,10 +61,7 @@ I am a patient individual who excels in human interaction. My mission is to beco
 
 <hr/>
 
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Feel+Free+To+Contact+Me!;&color=ffffff" />
-</h1>
+<h2 align="center">📬 Get in Touch 📬</h2>
 
 <br/>
 
@@ -76,7 +70,6 @@ I am a patient individual who excels in human interaction. My mission is to beco
 </div>
 
 <br/>
-
 
 ## 📹 My Coding Playlist
 Check out my coding tutorials and projects on YouTube: [Coding System Playlist](https://youtube.com/playlist?list=PL5_GYdK3koJux6Hq_jH0BFr95optKckXx&si=rwvanYjRK76BN8ZC)
@@ -97,19 +90,8 @@ Check out my coding tutorials and projects on YouTube: [Coding System Playlist](
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
-
 --- 
 [![](https://visitcount.itsvg.in/api?id=Hanricus&icon=2&color=0)](https://visitcount.itsvg.in)
 
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Hanricus) 
-
-<p style="text-align: center; margin: 20px 0;">
-    <span style="display: inline;">😎</span>
-    <a href="https://youtu.be/xvFZjo5PgG0?si=FK46lzR5zJ-9GAL1" target="_blank" style="display: inline;">CLICK ME!! [Trust Me]</a>
-</p>
-
-
-
-
-
+## 💰 Support Me
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Hanricus)
