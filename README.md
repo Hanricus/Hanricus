@@ -4,7 +4,7 @@
     Hi, I'm Abdul Shakir
 </h1>
 
-<h3 align="center">A passionate student and software developer from Malaysia</h3>
+<h3 align="center">A passionate student and System developer from Malaysia</h3>
 
 <br/>
 
