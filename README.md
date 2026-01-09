@@ -48,24 +48,7 @@ I enjoy working with technology and creating user-friendly websites. My goal is 
 
 <hr/>
 
-## 📊 My Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hanricus&show_icons=true&theme=react" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanricus&layout=compact&theme=react" />
-</p>
-
-  <br>
-
-</div>
-
-
-<br/><br/>
-
-<hr/>
 
 <h2 align="center">📬 Get in Touch 📬</h2>
 
